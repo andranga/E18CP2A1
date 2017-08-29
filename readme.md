@@ -13,7 +13,7 @@ El objetivo de esta actividad es la creación de un tablero en Trello con las hi
     - Doing
     - Done
 
-![](ss-1.png)
+![ss-1](https://user-images.githubusercontent.com/18556541/29829745-922cf92a-8cb6-11e7-953b-c688e73af23c.png)
 
 - Debemos contemplar un sprint cada 7 días, por lo que la lista **Next Up** debe contener las historias de usuario a implementar hasta el próximo Jueves.
 
